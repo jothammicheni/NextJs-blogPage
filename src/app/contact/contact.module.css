@@ -3,3 +3,7 @@
     width: 500px;
     height: 500px;
 }
+.container{
+    filter: grayscale(50%);
+background-color: red;
+}

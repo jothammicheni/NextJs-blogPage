@@ -10,7 +10,8 @@
 }
 
 body{
-  background-color:var(--bg);
+  background: linear-gradient(to bottom, rgba(13, 12, 34, 0.4) 0%, rgba(13, 12, 34, 0.9) 100%);
+
   color:var(--text);
 }
 a{

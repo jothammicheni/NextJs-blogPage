@@ -3,6 +3,7 @@
 .container{
     display: flex;
     
+    
 }
 .textContainer{
     flex: 1;
