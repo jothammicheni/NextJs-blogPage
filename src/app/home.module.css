@@ -1,0 +1,48 @@
+.container{
+    display: flex;
+    gap: 80px;
+}
+
+.brandContainer{
+    width: 100px;
+    height: 10px;  
+    
+}
+.textContainer{
+ flex: 1;
+ display: flex;
+ flex-direction: column;
+ gap: 10px;
+}
+.textContainer{
+    flex: 1;
+    position: relative;
+}
+.gifImage{
+    width: 450px;
+    height: 450px;
+}
+.brands{
+    width: 500px;
+    height: 50px;
+    position: relative;
+    filter: grayscale(1);
+}
+.button{
+    height: 50px;
+    width: 150px;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    margin: 10px;
+}
+.button:first-child{
+    background-color:rgb(20, 175, 236);
+}
+.title{
+    font-size: 96px;
+}
+.desc{
+    font-size: 20px;
+    color: red;
+}

@@ -2,6 +2,8 @@
     display: flex;
     justify-content: space-between;
     height: 100px;
+    top: 0;
+    position: sticky;
 }
 .logo{
  font-size: 30px;
